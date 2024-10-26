@@ -1,2 +1,2 @@
-# naive_bayes
+# Data Mining
 Tugas DataMining 
